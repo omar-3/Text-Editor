@@ -355,7 +355,7 @@ void editorDrawStatusBar(struct abuf *ab) {
 }
 
 
-void editorDrawMessageBar(struct abus *ab) {
+void editorDrawMessageBar(struct abuf *ab) {
     abAppend(ab, "\x1b[K", 3);
     int msglen = strlen(E.statusmsg);
     if (msglen > E.screencols) msglen = E.screencols;
