@@ -3,6 +3,7 @@
         "stdlib.h": "c",
         "termios.h": "c",
         "stdio.h": "c",
-        "types.h": "c"
+        "types.h": "c",
+        "fcntl.h": "c"
     }
 }
