@@ -1,6 +1,6 @@
 # Text-Editor
 still in progress...</br>but It would support **at least** 
-* syntax highlighting ==> working on it now
+* ~~syntax highlighting~~
 * ~~searching~~
 * line numbering
 * auto-indent
